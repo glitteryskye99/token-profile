@@ -1,0 +1,148 @@
+repo_name: glitteryskye99/token-profile
+report_id: e697707551c03114603a733871621ea9
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:28:57+00:00'
+requested_by: sfsy520
+provider: github
+branch: master
+detected_tools_count: 11
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/glitteryskye99/token-profile/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Xaber
+  last_updated_on: 2018-12-12 08:06:15.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/glitteryskye99/token-profile
+  detection_source: Repo Metadata
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/glitteryskye99/token-profile/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Xaber20110202
+  last_updated_on: 2018-06-09 13:47:23.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/glitteryskye99/token-profile
+  detection_source: Repo Metadata
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/glitteryskye99/token-profile/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Xaber20110202
+  last_updated_on: 2018-06-09 13:47:23.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/glitteryskye99/token-profile/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Xaber20110202
+  last_updated_on: 2018-06-09 13:47:23.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/glitteryskye99/token-profile/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Xaber20110202
+  last_updated_on: 2018-06-09 13:57:58.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 10.12.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/glitteryskye99/token-profile/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Xaber
+  last_updated_on: 2018-12-12 08:06:15.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/glitteryskye99/token-profile/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Xaber20110202
+  last_updated_on: 2018-06-09 13:57:58.000000000 Z
+- name: pngjs
+  description: PNG encoder/decoder in pure JS
+  package_url: https://www.npmjs.com/pngjs
+  version: 3.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17513/default_10a98ebc0146ab94b0fde6f7013c1279c82e4135.png
+  detection_source_url: https://github.com/glitteryskye99/token-profile/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Xaber
+  last_updated_on: 2018-12-12 08:06:15.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 7.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/glitteryskye99/token-profile/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Xaber
+  last_updated_on: 2018-12-12 08:06:15.000000000 Z
